@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCrop</string>
+
+    <string name="Grant_Permission">Grant Permission</string>
+    <string name="Please_grant_all_permissions">Please grant all permissions to access additional functionality.</string>
+    <string name="Go_to_setting">Go to setting</string>
+    <string name="express_yourself_with_custom_emojis_and_stickers_crafted_by_yourself">Express yourself with custom emojis and stickers, crafted by yourself.</string>
+    <string name="continue_intro">Continue</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ucrop" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ucrop_color_black</item>
+        <item name="colorPrimaryVariant">@color/ucrop_color_black</item>
+        <item name="colorOnPrimary">@color/ucrop_color_black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ucrop_color_black</item>
+        <item name="colorSecondaryVariant">@color/ucrop_color_black</item>
+        <item name="colorOnSecondary">@color/ucrop_color_black</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+</resources>
